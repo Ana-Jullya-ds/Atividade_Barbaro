@@ -1,0 +1,8 @@
+C:\Users\ana.jssilva19\source\repos\Aula1_C#\Aula1_C#\bin\Debug\Aula1_C#.exe.config
+C:\Users\ana.jssilva19\source\repos\Aula1_C#\Aula1_C#\bin\Debug\Aula1_C#.exe
+C:\Users\ana.jssilva19\source\repos\Aula1_C#\Aula1_C#\bin\Debug\Aula1_C#.pdb
+C:\Users\ana.jssilva19\source\repos\Aula1_C#\Aula1_C#\obj\Debug\Atividades_Cisne.csproj.AssemblyReference.cache
+C:\Users\ana.jssilva19\source\repos\Aula1_C#\Aula1_C#\obj\Debug\Atividades_Cisne.csproj.SuggestedBindingRedirects.cache
+C:\Users\ana.jssilva19\source\repos\Aula1_C#\Aula1_C#\obj\Debug\Atividades_Cisne.csproj.CoreCompileInputs.cache
+C:\Users\ana.jssilva19\source\repos\Aula1_C#\Aula1_C#\obj\Debug\Aula1_C#.exe
+C:\Users\ana.jssilva19\source\repos\Aula1_C#\Aula1_C#\obj\Debug\Aula1_C#.pdb
